@@ -4,3 +4,8 @@ https://database.nikonoel.fr/
 
 or if you wanna use a bigger dataset you can acces more data from lichess's open database:
 https://database.lichess.org/
+
+
+
+for that project ı got inspired by nick tech 
+thanks for he's resources
