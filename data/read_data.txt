@@ -1,0 +1,6 @@
+I used lichess dataset for that project
+you can use that one:
+https://database.nikonoel.fr/
+
+or if you wanna use a bigger dataset you can acces more data from lichess's open database:
+https://database.lichess.org/
